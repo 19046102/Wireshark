@@ -4,7 +4,9 @@ Wireshark（前称Ethereal）是一个网络数据包分析软件。网络数据
 
 **一、wireshark开始界面**
 
-![IMG_256](media/897e97fda75d3eee7d4d7aec7a0c6299.png)
+![IMG_256](media/897e97fda75d3eee7d4d7aec7a0c6299.png)!
+[Uploading image.png…]()
+
 
 或者会出现这样的开始界面
 
